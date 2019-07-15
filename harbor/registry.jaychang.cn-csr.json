@@ -1,0 +1,21 @@
+{
+    "CN": "harbor",
+    "hosts": [
+        "10.1.80.71",
+        "10.1.80.72",
+        "10.1.80.73",
+        "10.1.80.77",
+        "registry.jaychang.cn"
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "CN",
+            "ST": "HZ",
+            "L": "HangZhou"
+        }
+    ]
+}
